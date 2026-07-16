@@ -18,8 +18,8 @@ Build a strong foundation in Python by writing basic programs and understanding 
 
 ```
 Day-01/
-├── hello_world.py
-├── practice.py
+├── 01_hello_world.py
+├── 02_practice.py
 ├── NOTES.md
 └── README.md
 ```
